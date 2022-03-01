@@ -1,13 +1,18 @@
 
 import './App.css';
-
+import React, { useState } from 'react'
+import data from './data'
+import List from './List'
 function App() {
-  return (
-    <div>
-<h1>This is my first react app </h1>
-    <p> So this will be my first react project and learning while on the go! I will be using VScode to do my code editing and push changes via git<p>
-    </div>
-  );
+	// Edit your return statement here to match the instructions
+	return (
+		<main>
+			<section className="container">
+				<h3>0 birthdays today</h3>
+				<List />
+			</section>
+		</main>
+	)
 }
 
-export default App;
+export default App
