@@ -9,7 +9,7 @@ export default [
 		id: 2,
 		name: 'Reuben Kigame',
 		age: 62,
-		image: ''
+		image: 'https://pbs.twimg.com/profile_images/1464333935022903297/gsB0KbPI_400x400.jpg'
 	},
 	{
 		id: 3,
@@ -21,12 +21,12 @@ export default [
 		id: 4,
 		name: 'Akuro Aukot',
 		age: 46,
-		image: ''
+		image: 'https://pbs.twimg.com/profile_images/1472843322569990146/3D7Zk_8o_400x400.jpg'
 	},
 	{
 		id: 5,
 		name: 'Mwangi wa Iria',
 		age: 47,
-		image: ''
+		image: 'https://pbs.twimg.com/profile_images/1417596740539228166/Q4LxqLOc_400x400.jpg'
 	}
 ]
