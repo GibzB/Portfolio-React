@@ -3,30 +3,30 @@ export default [
 		id: 1,
 		name: 'Raila Odinga',
 		age: 78,
-		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg'
+		image: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Raila_A._Odinga.jpg'
 	},
 	{
 		id: 2,
 		name: 'Reuben Kigame',
 		age: 62,
-		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg'
+		image: ''
 	},
 	{
 		id: 3,
-		name: 'William Samoei Rutto',
+		name: 'William Samoei Rutto,  PHD',
 		age: 57,
-		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg'
+		image: 'https://pbs.twimg.com/profile_images/378800000323275501/a354891d9c59e288604fcced58a86d11_400x400.jpeg'
 	},
 	{
 		id: 4,
 		name: 'Akuro Aukot',
 		age: 46,
-		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg'
+		image: ''
 	},
 	{
 		id: 5,
 		name: 'Mwangi wa Iria',
 		age: 47,
-		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg'
+		image: ''
 	}
 ]
