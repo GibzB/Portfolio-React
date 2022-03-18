@@ -19,7 +19,7 @@ export default [
 	},
 	{
 		id: 4,
-		name: 'Akuro Aukot',
+		name: 'Dr. Akuro Aukot',
 		age: 46,
 		image: 'https://pbs.twimg.com/profile_images/1472843322569990146/3D7Zk_8o_400x400.jpg'
 	},
