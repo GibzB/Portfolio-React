@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-size: 60;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'sans-serif';
+  color: #ffffff;
+  background: #1ed928;
+  display: block;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
