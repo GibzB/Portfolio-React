@@ -2,7 +2,7 @@ import './index.scss';
 
 const Layout = () => {
     return (
-         <h1>Layout</h1>
+         <h3>React Portfolio</h3>
     )
     }
 
